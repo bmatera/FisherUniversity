@@ -1,0 +1,10 @@
+C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherUniversity\FisherUniversity\bin\Debug\netcoreapp1.1\FisherUniversity.deps.json
+C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherUniversity\FisherUniversity\bin\Debug\netcoreapp1.1\FisherUniversity.runtimeconfig.json
+C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherUniversity\FisherUniversity\bin\Debug\netcoreapp1.1\FisherUniversity.runtimeconfig.dev.json
+C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherUniversity\FisherUniversity\bin\Debug\netcoreapp1.1\FisherUniversity.dll
+C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherUniversity\FisherUniversity\bin\Debug\netcoreapp1.1\FisherUniversity.pdb
+C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherUniversity\FisherUniversity\obj\Debug\netcoreapp1.1\FisherUniversity.csprojResolveAssemblyReference.cache
+C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherUniversity\FisherUniversity\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherUniversity\FisherUniversity\obj\Debug\netcoreapp1.1\FisherUniversity.AssemblyInfo.cs
+C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherUniversity\FisherUniversity\obj\Debug\netcoreapp1.1\FisherUniversity.dll
+C:\Users\WM100002\Documents\Visual Studio 2017\Projects\FisherUniversity\FisherUniversity\obj\Debug\netcoreapp1.1\FisherUniversity.pdb
